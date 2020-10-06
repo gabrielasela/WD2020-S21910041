@@ -1,0 +1,26 @@
+div .smile {
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin : 20px;
+    margin-bottom: -2px;
+}
+
+div .bigSmile {
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin: 20px;
+    margin-top: -2px;
+    margin-left: 200px;
+    margin-bottom: -2px;
+}
+
+div .winkingSmile {
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin : 20px;
+    margin-top: -2px;
+    margin-left: 380px;
+}
