@@ -69,7 +69,7 @@ let nama = prompt("Masukan Nama : ");
 console.log("Nama : " + nama);
 let berat = prompt("Masukan Berat Badan : ");
 console.log("Berat Badan : " + berat + " kg");
-let tinggi = prompt("Masukan Tinggi -Dalam satuan Meter-: ");
+let tinggi = prompt("Masukan Tinggi : ");
 console.log("Tinggi : " + tinggi + " m");
 let beratIdeal = berat / (tinggi * tinggi);
 console.log("Berat Ideal = " + beratIdeal);
